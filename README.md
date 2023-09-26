@@ -5,7 +5,7 @@
 ## Índice
 
 - [Configuração, compilação e execução no Linux](#configuração-compilação-e-execução-no-linux)
-- [Arquivos](#arquivos-necessários-à-execução)
+- [Arquivos necessários à execução](#arquivos-necessários-à-execução)
 - [Implementação](#implementação)
 
 ---
