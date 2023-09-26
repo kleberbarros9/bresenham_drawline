@@ -161,3 +161,7 @@ void MyGlDraw(void)
 
 ## Referências
 
+
+AMMERAAL, Leendert; ZHANG, Kang; ZHANG, Kang. Computer graphics for Java programmers. Chichester: Wiley, 1998.
+
+GORDON, V. Scott; CLEVENGER, John L. Computer graphics programming in OpenGL with C++. Mercury Learning and Information, 2020.
