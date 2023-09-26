@@ -36,14 +36,14 @@ sudo apt-get install libxmu-dev libxi-dev
 g++ -o programa main.cpp -lglut -lGLU -lGL -lm && ./programa
 ```
 
-## Arquivos
+## Arquivos necessários à execução
 
 - [config.cpp](config.cpp)
-- definitions.cpp
-- main.cpp
-- main.h
-- mygl.cpp
-- mygl.h
+- [definitions.cpp](definitions.cpp)
+- [main.cpp](main.cpp)
+- [main.h](main.h)
+- [mygl.cpp](mygl.cpp)
+- [mygl.h](mygl.h)
 
 ## Implementação
 
