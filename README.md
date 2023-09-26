@@ -161,6 +161,7 @@ void MyGlDraw(void)
 
 ## Referências
 
+[GitHub do professor Maeslon Pacheco](https://gitlab.com/maelso/icg/-/tree/main/my_gl_framework)
 
 AMMERAAL, Leendert; ZHANG, Kang; ZHANG, Kang. Computer graphics for Java programmers. Chichester: Wiley, 1998.
 
