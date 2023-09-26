@@ -38,7 +38,6 @@ g++ -o programa main.cpp -lglut -lGLU -lGL -lm && ./programa
 
 ## Arquivos
 
-- config.cpp
 - [config.cpp](config.cpp)
 - definitions.cpp
 - main.cpp
