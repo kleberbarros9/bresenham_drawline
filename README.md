@@ -69,7 +69,7 @@ void PutPixel(int x, int y, int r, int g, int b) {
 
 
 
-- Função drawLine que implementa o algoritmo de Bresenham para traçado de linhas
+- Função DrawLine que implementa o algoritmo de Bresenham para traçado de linhas
 
 ```c++
 void DrawLine(int x1, int y1, int x2, int y2, int r, int g, int b){
