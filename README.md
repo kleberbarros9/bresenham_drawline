@@ -7,6 +7,8 @@
 - [Configuração, compilação e execução no Linux](#configuração-compilação-e-execução-no-linux)
 - [Arquivos necessários à execução](#arquivos-necessários-à-execução)
 - [Implementação](#implementação)
+- [resultado](#resultado)
+- [referências](#referências)
 
 ---
 
@@ -156,4 +158,6 @@ void MyGlDraw(void)
     <br>
 </p>
 
+
+## Referências
 
